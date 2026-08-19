@@ -1,0 +1,13 @@
+[
+  {
+    "id": "post_seed001",
+    "title": "Memulai Perjalanan dengan ESP32: Catatan Belajar",
+    "date": "2026-01-05",
+    "tags": ["esp32", "belajar", "iot"],
+    "excerpt": "Log singkat proses belajar mikrokontroler ESP32 dari nol — dari instalasi Arduino IDE hingga proyek IoT pertama yang benar-benar menyala.",
+    "contentMarkdown": "## Kenapa ESP32?\n\nDibanding Arduino Uno biasa, ESP32 punya WiFi & Bluetooth bawaan yang membuka banyak kemungkinan proyek IoT tanpa modul tambahan.\n\n## Langkah Awal\n\n1. Install Arduino IDE\n2. Tambahkan board manager ESP32\n3. Upload sketch blink pertama\n\nCatatan lengkap menyusul di tulisan berikutnya.",
+    "thumbnail": "https://placehold.co/800x450/0d1117/22d3ee?text=Digital+Garage",
+    "createdAt": "2026-01-05T02:00:00.000Z",
+    "updatedAt": "2026-01-05T02:00:00.000Z"
+  }
+]

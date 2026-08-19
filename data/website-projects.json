@@ -1,0 +1,24 @@
+[
+  {
+    "id": "web_seed001",
+    "title": "Personal Hub — Website Portofolio Ini",
+    "description": "Website portofolio pribadi dengan tema Dark Glow, admin panel penuh, dan GitHub sebagai database, dideploy di Vercel.",
+    "techStack": ["Tailwind CSS", "Vercel Serverless Functions", "GitHub API", "JWT"],
+    "thumbnail": "https://placehold.co/800x500/0d1117/22d3ee?text=Personal+Hub",
+    "previewUrl": "",
+    "sourceZipUrl": "",
+    "createdAt": "2026-03-01T02:00:00.000Z",
+    "updatedAt": "2026-03-01T02:00:00.000Z"
+  },
+  {
+    "id": "web_seed002",
+    "title": "Sistem Absensi Sekolah Sederhana",
+    "description": "Aplikasi web absensi berbasis PHP & MySQL dengan laporan rekap bulanan otomatis untuk wali kelas.",
+    "techStack": ["PHP", "MySQL", "Bootstrap"],
+    "thumbnail": "https://placehold.co/800x500/0d1117/3b82f6?text=Absensi+App",
+    "previewUrl": "",
+    "sourceZipUrl": "",
+    "createdAt": "2026-03-15T02:00:00.000Z",
+    "updatedAt": "2026-03-15T02:00:00.000Z"
+  }
+]

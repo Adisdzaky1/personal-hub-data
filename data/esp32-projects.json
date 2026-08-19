@@ -1,0 +1,26 @@
+[
+  {
+    "id": "esp32_seed001",
+    "title": "Smart Home Monitor berbasis ESP32",
+    "description": "Sistem monitoring suhu, kelembapan, dan kualitas udara ruangan secara real-time menggunakan ESP32, dikirim ke dashboard web via MQTT dan ditampilkan dalam grafik interaktif.",
+    "components": ["ESP32 DevKit V1", "Sensor DHT22", "Sensor MQ-135", "OLED 0.96\" I2C", "Relay 1 Channel"],
+    "images": ["https://placehold.co/800x500/0d1117/22d3ee?text=Smart+Home+Monitor"],
+    "inoFileUrl": "",
+    "binFileUrl": "",
+    "howItWorks": "ESP32 membaca data sensor setiap 5 detik, mengirim payload JSON ke broker MQTT, lalu dashboard web melakukan subscribe dan merender data secara real-time menggunakan Chart.js.",
+    "createdAt": "2026-01-10T02:00:00.000Z",
+    "updatedAt": "2026-01-10T02:00:00.000Z"
+  },
+  {
+    "id": "esp32_seed002",
+    "title": "Alarm Keamanan Pintu Pintar",
+    "description": "Prototipe alarm pintu berbasis sensor magnetic reed switch dan buzzer, dengan notifikasi Telegram saat pintu terbuka di luar jadwal.",
+    "components": ["ESP32", "Magnetic Reed Switch", "Buzzer Aktif", "Modul Relay"],
+    "images": ["https://placehold.co/800x500/0d1117/a855f7?text=Door+Alarm"],
+    "inoFileUrl": "",
+    "binFileUrl": "",
+    "howItWorks": "Reed switch mendeteksi status pintu (terbuka/tertutup), ESP32 memproses logika jadwal aman, dan mengirim notifikasi ke Telegram Bot API bila terjadi pelanggaran.",
+    "createdAt": "2026-02-02T02:00:00.000Z",
+    "updatedAt": "2026-02-02T02:00:00.000Z"
+  }
+]

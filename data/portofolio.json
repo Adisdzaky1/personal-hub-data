@@ -1,0 +1,48 @@
+{
+  "profilePhoto": "https://placehold.co/400x400/0d1117/22d3ee?text=Foto+Profil",
+  "name": "Adis Dzaky Rifai",
+  "bio": "Pelajar SMK jurusan Teknik Audio Video yang senang mengutak-atik mikrokontroler dan membangun web sederhana. Belajar coding otodidak, dibantu banyak oleh AI tools untuk mempercepat proses belajar dan membangun proyek.",
+  "goalQuote": "Bekerja di Jepang",
+  "education": [
+    { "id": "edu1", "school": "SD Negeri 1 Arcawinangun", "detail": "", "order": 1 },
+    { "id": "edu2", "school": "SMP Negeri 6 Purwokerto", "detail": "", "order": 2 },
+    { "id": "edu3", "school": "SMK Kesatrian Purwokerto", "detail": "Jurusan Teknik Audio Video (TAV)", "order": 3 }
+  ],
+  "address": "Arcawinangun, RT/RW 08/08",
+  "social": {
+    "instagram": { "handle": "@adisdzakyrifai", "url": "https://instagram.com/adisdzakyrifai" },
+    "whatsapp": { "handle": "6285877276864", "url": "https://wa.me/6285877276864" },
+    "telegram": { "handle": "@UnkwonUsr", "url": "https://t.me/UnkwonUsr" }
+  },
+  "programmingLanguages": [
+    { "name": "HTML", "level": 70 },
+    { "name": "PHP", "level": 45 },
+    { "name": "Node.js", "level": 40 },
+    { "name": "Golang", "level": 25 }
+  ],
+  "tools": [
+    { "name": "GitHub", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=GH" },
+    { "name": "Vercel", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=Vercel" },
+    { "name": "Replit", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=Replit" },
+    { "name": "OpenAI", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=OpenAI" },
+    { "name": "Claude", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=Claude" },
+    { "name": "DeepSeek", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=DeepSeek" },
+    { "name": "VS Code", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=VSCode" },
+    { "name": "DigitalOcean", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=DO" },
+    { "name": "aaPanel", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=aaPanel" },
+    { "name": "Git", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=Git" },
+    { "name": "cPanel", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=cPanel" },
+    { "name": "WHM", "logo": "https://placehold.co/100x100/0d1117/e6edf3?text=WHM" }
+  ],
+  "aiWorkflow": {
+    "badge": "AI-Powered Workflow",
+    "description": "Terbiasa memakai Claude dan ChatGPT sebagai co-pilot sehari-hari — mulai dari debugging kode, merancang arsitektur proyek, sampai belajar konsep baru lebih cepat."
+  },
+  "donation": {
+    "qrImage": "https://placehold.co/250x250/0d1117/22d3ee?text=QR+Donasi",
+    "platformUrl": "",
+    "platformLabel": "Dukung lewat Saweria"
+  },
+  "formspreeId": "adisdzaky",
+  "updatedAt": "2026-03-01T02:00:00.000Z"
+}
